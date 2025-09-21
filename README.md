@@ -1,6 +1,6 @@
 # Uppgift 4 – Function-Based Calculator
 
-## 📖 Beskrivning
+## Beskrivning
 Detta program är en menybaserad kalkylator som använder **funktioner** för olika räkneoperationer.  
 Användaren kan välja operation, skriva in två tal och få resultatet direkt.
 
@@ -14,7 +14,7 @@ Användaren kan välja operation, skriva in två tal och få resultatet direkt.
 
 ---
 
-## ▶️ Så här kör du
+## Så här kör du
 Öppna terminalen i mappen där filen ligger och skriv:
 ```bash
 py Uppgift4.py
@@ -23,7 +23,7 @@ py Uppgift4.py
 
 ---
 
-## 💻 Exempelutskrift
+## Exempelutskrift
 ```
 ==== CALCULATOR ====
 1. Add
@@ -41,7 +41,7 @@ Result: 13.0
 
 ---
 
-## 📂 Filstruktur
+## Filstruktur
 ```
 Uppgift-4/
 │
@@ -51,5 +51,5 @@ Uppgift-4/
 
 ---
 
-## ✍️ Författare
-- *Ditt namn här*
+## Författare
+- Lucas Bergman
